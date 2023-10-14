@@ -1,13 +1,14 @@
 # Business_Intelligence_Solution_Implementation_PowerBI
 Centralized diverse sales data into PowerBI, transforming it for real-time insights.
-Project: Business Intelligence Solution Implementation (PowerBI)
 
-# Tools Used: Microsoft PowerBI, SQL
+**Project: Business Intelligence Solution Implementation (PowerBI)**
 
-# Description: 
+**Tools Used:** Microsoft PowerBI, SQL
+
+**Description:** 
 Led the design and implementation of a Business Intelligence (BI) solution for Axon, a classic car retailer, to streamline sales data management and analysis.
 
-# Achievements and Contributions:
+**Achievements and Contributions:**
 
 **Data Centralization:** Successfully integrated scattered sales data from diverse sources into Microsoft PowerBI for centralized management.
 
